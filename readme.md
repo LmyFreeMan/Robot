@@ -22,7 +22,7 @@ Project
     │  ├─java
     │  │  └─com
     │  │      ├─api
-    │  │      │      Request.java 调第三方的API,自己懒得写
+    │  │      │      Request.java 第三方的API
     │  │      │      
     │  │      ├─jcq
     │  │      │      Robot.java   遵循QQ协议,封装的框架
