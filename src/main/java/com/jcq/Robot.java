@@ -52,10 +52,6 @@ public class Robot extends JcqAppAbstract implements ICQVer, IMsg, IRequest {
     public int exit() {
         return 0;
     }
-    @Test
-    public void test(){
-        System.out.println(Util.getMinute(new Date()));
-    }
     /**
      * 应用已被启用 (Type=1003)<br>
      * 当应用被启用后，将收到此事件。<br>
